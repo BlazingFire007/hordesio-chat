@@ -1,4 +1,4 @@
-# hordesio-chat
+# hordesio-chat (read-only)
 
 Installation on Windows:
 =====
