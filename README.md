@@ -8,4 +8,4 @@ Download and run the [start.bat file](https://cdn.rawgit.com/BlazingFire007/hord
 
 or
 -----
-Open CMD, move to where you want the folder to be, and paste: `powershell Invoke-WebRequest -Uri "https://goo.gl/2cGUoT" -OutFile "start.bat"&&start.bat`
+Open CMD, move to where you want the application to be, and paste: `powershell Invoke-WebRequest -Uri "https://goo.gl/2cGUoT" -OutFile "start.bat"&&start.bat`
