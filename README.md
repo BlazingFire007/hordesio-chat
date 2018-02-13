@@ -2,4 +2,4 @@
 
 Installation:
 -----
-***Windows**: Download and run start.bat
+**Windows**: Download and run start.bat
