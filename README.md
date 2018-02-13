@@ -4,7 +4,7 @@ Installation on Windows:
 =====
 Before doing either of the following you **must** install [Node.js](https://nodejs.org/dist/v9.5.0/node-v9.5.0-x64.msi)
 
-Download and run the start.bat file.
+Download and run the [start.bat file](https://cdn.rawgit.com/BlazingFire007/hordesio-chat/master/start.bat).
 
 or
 -----
